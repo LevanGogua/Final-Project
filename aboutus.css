@@ -181,7 +181,6 @@ margin-top: 100px;
 
 
 #vs {
-    margin-left: 255px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -194,6 +193,8 @@ margin-top: 100px;
     transition: 0.2s;
  margin-right: 60px;  
  gap: 127px; 
+ justify-content: center;
+ align-items: center;
 
  
  }
@@ -454,15 +455,16 @@ right: 400px;
     }
 
     #vs {
-        translate: -10px
+        
+        flex-direction: column;
+        translate: 10px
         ;
     }
     #tvsp {
         translate: -5px;
      }
      #tvsl {
-        translate: -10px
-        ;
+       
      }
      #text1 {
         translate: 5px
