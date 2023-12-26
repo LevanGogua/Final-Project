@@ -44,7 +44,6 @@ margin-right: 197px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;  
-    position: sticky; 
     
 }
 
@@ -352,7 +351,7 @@ margin-left: 43px;
   #footer3 {
     margin-left: -321px;
   }
-
+ 
   #input {
     width: 339px;
 height: 40px;
