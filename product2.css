@@ -503,6 +503,10 @@ display: flex;
             #info {
 position: relative;  
 right: 40px;          }
+#ufc {
+    translate: -40px
+    ;
+}
             
           }
 

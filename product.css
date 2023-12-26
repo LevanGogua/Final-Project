@@ -426,6 +426,10 @@ right: 813px;
     position: relative;
     top: 150px;
 }
+#ufc {
+    translate: -40px
+    ;
+}
 
 #input {
     display: none;

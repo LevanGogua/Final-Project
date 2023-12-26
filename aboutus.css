@@ -414,6 +414,10 @@ right: 400px;
     top: 100px;
     right: 813px; 
 }
+#ufc {
+    translate: -40px
+    ;
+}
 
     #text4 {
         display: none;
