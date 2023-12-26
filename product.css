@@ -387,7 +387,7 @@ position: relative;
 left: -20px; }
 
 
-  @media screen and (max-width:777px) {
+  @media screen and (max-width:768px) {
 
 #grid {
     -ms-grid-columns: 1fr;

@@ -166,7 +166,7 @@ margin-top: 100px;
     font-style: normal;
     line-height: normal;
     margin-top: 98px;
-    translate: -20px
+    translate: -30px
     ;
     }
     
@@ -394,7 +394,7 @@ display: none;
     margin-top: 9px;
   }
  
-  @media screen and (max-width:777px) { 
+  @media screen and (max-width:768px) { 
 
 
     #list2 {
@@ -451,7 +451,7 @@ right: 400px;
     }
 
     #vs {
-        translate: -20px
+        translate: -10px
         ;
     }
     #tvsp {
@@ -459,6 +459,10 @@ right: 400px;
      }
      #tvsl {
         translate: -10px
+        ;
+     }
+     #text1 {
+        translate: 5px
         ;
      }
     
