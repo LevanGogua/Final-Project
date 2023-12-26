@@ -464,6 +464,7 @@ text-align: center;
     }
 
 #list {translate: 420px;
+    display: none;
     
 }
  
@@ -482,8 +483,21 @@ height: 368px;
             justify-content: center;
 }
 
-
-
+#search {
+    display: none;
+}
+#searchlogo {
+    display: none;
+}
+ #kaci {
+    display: none;
+ }
+ #pin {
+    display: none;
+ }
+ #cart {
+    display: none;
+ }
 
 #seeall {
  margin-left: 285px;
