@@ -454,5 +454,12 @@ right: 400px;
         translate: -20px
         ;
     }
+    #tvsp {
+        translate: -5px;
+     }
+     #tvsl {
+        translate: -10px
+        ;
+     }
     
   }
